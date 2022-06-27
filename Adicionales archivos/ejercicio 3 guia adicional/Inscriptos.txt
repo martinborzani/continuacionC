@@ -1,0 +1,9 @@
+CC01 Lopez 3
+CC03 Perez 2
+CC04 Garcia 0
+CC05 Fernandez 5
+CC08 Rodriguez 4
+CC10 Gonzalez 1
+CC11 Ramirez 1
+CC13 Juanes 0
+ZZZZ ZZZZZ  99

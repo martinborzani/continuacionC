@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651917818 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\parcial 5 adicionales\tdapila.c
+	"tdapila.h"
+
+1655494885 c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\parcial 5 adicionales\tdapila.h
+
+1655498631 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\parcial 5 adicionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapila.h"
+

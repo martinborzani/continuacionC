@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650478719 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica adicional enfrentamiento\ejercicio 2 practica adicional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

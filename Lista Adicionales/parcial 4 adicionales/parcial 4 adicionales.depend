@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652132503 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\parcial 4 adicionales\tdacola.c
+	"tdacola.h"
+
+1655477568 c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\parcial 4 adicionales\tdacola.h
+
+1655493364 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\parcial 4 adicionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdacola.h"
+
